@@ -1,2 +1,1 @@
-# KartverketWepApplication
-Kartverket Wep Application
+# Wep Application
